@@ -1,7 +1,5 @@
 import random
 
-
-
 def findNumber(computerNumber):
     number = int(input("Try to guess a number between 1 and 1000\n"))
     if number == computerNumber:
